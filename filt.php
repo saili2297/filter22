@@ -1,5 +1,5 @@
 <?php
 
-include_once("filter.html")
+include("filter.html")
 
 ?>
